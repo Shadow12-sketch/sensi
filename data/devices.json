@@ -1,0 +1,611 @@
+{
+  "iphone 16 pro max": {
+    "device_name": "iPhone 16 Pro Max",
+    "platform": "ios",
+    "screen_size": "6.9",
+    "refresh_rate": "120",
+    "default_dpi": "N/A"
+  },
+  "iphone 16 pro": {
+    "device_name": "iPhone 16 Pro",
+    "platform": "ios",
+    "screen_size": "6.3",
+    "refresh_rate": "120",
+    "default_dpi": "N/A"
+  },
+  "iphone 16": {
+    "device_name": "iPhone 16",
+    "platform": "ios",
+    "screen_size": "6.1",
+    "refresh_rate": "60",
+    "default_dpi": "N/A"
+  },
+  "iphone 15 pro max": {
+    "device_name": "iPhone 15 Pro Max",
+    "platform": "ios",
+    "screen_size": "6.7",
+    "refresh_rate": "120",
+    "default_dpi": "N/A"
+  },
+  "iphone 15 pro": {
+    "device_name": "iPhone 15 Pro",
+    "platform": "ios",
+    "screen_size": "6.1",
+    "refresh_rate": "120",
+    "default_dpi": "N/A"
+  },
+  "iphone 15": {
+    "device_name": "iPhone 15",
+    "platform": "ios",
+    "screen_size": "6.1",
+    "refresh_rate": "60",
+    "default_dpi": "N/A"
+  },
+  "iphone 14 pro max": {
+    "device_name": "iPhone 14 Pro Max",
+    "platform": "ios",
+    "screen_size": "6.7",
+    "refresh_rate": "120",
+    "default_dpi": "N/A"
+  },
+  "iphone 14 pro": {
+    "device_name": "iPhone 14 Pro",
+    "platform": "ios",
+    "screen_size": "6.1",
+    "refresh_rate": "120",
+    "default_dpi": "N/A"
+  },
+  "iphone 14": {
+    "device_name": "iPhone 14",
+    "platform": "ios",
+    "screen_size": "6.1",
+    "refresh_rate": "60",
+    "default_dpi": "N/A"
+  },
+  "iphone 13 pro max": {
+    "device_name": "iPhone 13 Pro Max",
+    "platform": "ios",
+    "screen_size": "6.7",
+    "refresh_rate": "120",
+    "default_dpi": "N/A"
+  },
+  "iphone 13 pro": {
+    "device_name": "iPhone 13 Pro",
+    "platform": "ios",
+    "screen_size": "6.1",
+    "refresh_rate": "120",
+    "default_dpi": "N/A"
+  },
+  "iphone 13": {
+    "device_name": "iPhone 13",
+    "platform": "ios",
+    "screen_size": "6.1",
+    "refresh_rate": "60",
+    "default_dpi": "N/A"
+  },
+  "iphone 12 pro max": {
+    "device_name": "iPhone 12 Pro Max",
+    "platform": "ios",
+    "screen_size": "6.7",
+    "refresh_rate": "60",
+    "default_dpi": "N/A"
+  },
+  "iphone 12": {
+    "device_name": "iPhone 12",
+    "platform": "ios",
+    "screen_size": "6.1",
+    "refresh_rate": "60",
+    "default_dpi": "N/A"
+  },
+  "iphone 11 pro max": {
+    "device_name": "iPhone 11 Pro Max",
+    "platform": "ios",
+    "screen_size": "6.5",
+    "refresh_rate": "60",
+    "default_dpi": "N/A"
+  },
+  "iphone 11": {
+    "device_name": "iPhone 11",
+    "platform": "ios",
+    "screen_size": "6.1",
+    "refresh_rate": "60",
+    "default_dpi": "N/A"
+  },
+  "iphone se": {
+    "device_name": "iPhone SE",
+    "platform": "ios",
+    "screen_size": "4.7",
+    "refresh_rate": "60",
+    "default_dpi": "N/A"
+  },
+  "ipad pro 12.9": {
+    "device_name": "iPad Pro 12.9",
+    "platform": "ios",
+    "screen_size": "12.9",
+    "refresh_rate": "120",
+    "default_dpi": "N/A"
+  },
+  "ipad pro 11": {
+    "device_name": "iPad Pro 11",
+    "platform": "ios",
+    "screen_size": "11",
+    "refresh_rate": "120",
+    "default_dpi": "N/A"
+  },
+  "ipad air": {
+    "device_name": "iPad Air",
+    "platform": "ios",
+    "screen_size": "10.9",
+    "refresh_rate": "60",
+    "default_dpi": "N/A"
+  },
+  "samsung galaxy s24 ultra": {
+    "device_name": "Samsung Galaxy S24 Ultra",
+    "platform": "android",
+    "screen_size": "6.8",
+    "refresh_rate": "120",
+    "default_dpi": "450"
+  },
+  "samsung galaxy s24+": {
+    "device_name": "Samsung Galaxy S24+",
+    "platform": "android",
+    "screen_size": "6.7",
+    "refresh_rate": "120",
+    "default_dpi": "450"
+  },
+  "samsung galaxy s24": {
+    "device_name": "Samsung Galaxy S24",
+    "platform": "android",
+    "screen_size": "6.2",
+    "refresh_rate": "120",
+    "default_dpi": "420"
+  },
+  "samsung galaxy s23 ultra": {
+    "device_name": "Samsung Galaxy S23 Ultra",
+    "platform": "android",
+    "screen_size": "6.8",
+    "refresh_rate": "120",
+    "default_dpi": "450"
+  },
+  "samsung galaxy s23+": {
+    "device_name": "Samsung Galaxy S23+",
+    "platform": "android",
+    "screen_size": "6.6",
+    "refresh_rate": "120",
+    "default_dpi": "450"
+  },
+  "samsung galaxy s23": {
+    "device_name": "Samsung Galaxy S23",
+    "platform": "android",
+    "screen_size": "6.1",
+    "refresh_rate": "120",
+    "default_dpi": "420"
+  },
+  "samsung galaxy s22 ultra": {
+    "device_name": "Samsung Galaxy S22 Ultra",
+    "platform": "android",
+    "screen_size": "6.8",
+    "refresh_rate": "120",
+    "default_dpi": "450"
+  },
+  "samsung galaxy s21": {
+    "device_name": "Samsung Galaxy S21",
+    "platform": "android",
+    "screen_size": "6.2",
+    "refresh_rate": "120",
+    "default_dpi": "420"
+  },
+  "samsung galaxy a54": {
+    "device_name": "Samsung Galaxy A54",
+    "platform": "android",
+    "screen_size": "6.4",
+    "refresh_rate": "120",
+    "default_dpi": "403"
+  },
+  "samsung galaxy a34": {
+    "device_name": "Samsung Galaxy A34",
+    "platform": "android",
+    "screen_size": "6.6",
+    "refresh_rate": "120",
+    "default_dpi": "390"
+  },
+  "samsung galaxy a14": {
+    "device_name": "Samsung Galaxy A14",
+    "platform": "android",
+    "screen_size": "6.6",
+    "refresh_rate": "90",
+    "default_dpi": "390"
+  },
+  "samsung galaxy m54": {
+    "device_name": "Samsung Galaxy M54",
+    "platform": "android",
+    "screen_size": "6.7",
+    "refresh_rate": "120",
+    "default_dpi": "400"
+  },
+  "samsung galaxy f54": {
+    "device_name": "Samsung Galaxy F54",
+    "platform": "android",
+    "screen_size": "6.7",
+    "refresh_rate": "120",
+    "default_dpi": "400"
+  },
+  "oneplus 12": {
+    "device_name": "OnePlus 12",
+    "platform": "android",
+    "screen_size": "6.82",
+    "refresh_rate": "120",
+    "default_dpi": "480"
+  },
+  "oneplus 11": {
+    "device_name": "OnePlus 11",
+    "platform": "android",
+    "screen_size": "6.7",
+    "refresh_rate": "120",
+    "default_dpi": "480"
+  },
+  "oneplus 10 pro": {
+    "device_name": "OnePlus 10 Pro",
+    "platform": "android",
+    "screen_size": "6.7",
+    "refresh_rate": "120",
+    "default_dpi": "480"
+  },
+  "oneplus nord 3": {
+    "device_name": "OnePlus Nord 3",
+    "platform": "android",
+    "screen_size": "6.74",
+    "refresh_rate": "120",
+    "default_dpi": "450"
+  },
+  "oneplus nord ce 3": {
+    "device_name": "OnePlus Nord CE 3",
+    "platform": "android",
+    "screen_size": "6.7",
+    "refresh_rate": "120",
+    "default_dpi": "440"
+  },
+  "redmi note 13 pro+": {
+    "device_name": "Redmi Note 13 Pro+",
+    "platform": "android",
+    "screen_size": "6.67",
+    "refresh_rate": "120",
+    "default_dpi": "440"
+  },
+  "redmi note 13 pro": {
+    "device_name": "Redmi Note 13 Pro",
+    "platform": "android",
+    "screen_size": "6.67",
+    "refresh_rate": "120",
+    "default_dpi": "440"
+  },
+  "redmi note 13": {
+    "device_name": "Redmi Note 13",
+    "platform": "android",
+    "screen_size": "6.67",
+    "refresh_rate": "120",
+    "default_dpi": "400"
+  },
+  "redmi note 12 pro+": {
+    "device_name": "Redmi Note 12 Pro+",
+    "platform": "android",
+    "screen_size": "6.67",
+    "refresh_rate": "120",
+    "default_dpi": "440"
+  },
+  "redmi note 12 pro": {
+    "device_name": "Redmi Note 12 Pro",
+    "platform": "android",
+    "screen_size": "6.67",
+    "refresh_rate": "120",
+    "default_dpi": "440"
+  },
+  "redmi note 12": {
+    "device_name": "Redmi Note 12",
+    "platform": "android",
+    "screen_size": "6.67",
+    "refresh_rate": "120",
+    "default_dpi": "400"
+  },
+  "redmi note 11 pro": {
+    "device_name": "Redmi Note 11 Pro",
+    "platform": "android",
+    "screen_size": "6.67",
+    "refresh_rate": "120",
+    "default_dpi": "440"
+  },
+  "redmi note 11": {
+    "device_name": "Redmi Note 11",
+    "platform": "android",
+    "screen_size": "6.43",
+    "refresh_rate": "90",
+    "default_dpi": "400"
+  },
+  "redmi 12": {
+    "device_name": "Redmi 12",
+    "platform": "android",
+    "screen_size": "6.79",
+    "refresh_rate": "90",
+    "default_dpi": "400"
+  },
+  "poco x6 pro": {
+    "device_name": "POCO X6 Pro",
+    "platform": "android",
+    "screen_size": "6.67",
+    "refresh_rate": "120",
+    "default_dpi": "440"
+  },
+  "poco x6": {
+    "device_name": "POCO X6",
+    "platform": "android",
+    "screen_size": "6.67",
+    "refresh_rate": "120",
+    "default_dpi": "440"
+  },
+  "poco x5 pro": {
+    "device_name": "POCO X5 Pro",
+    "platform": "android",
+    "screen_size": "6.67",
+    "refresh_rate": "120",
+    "default_dpi": "440"
+  },
+  "poco x5": {
+    "device_name": "POCO X5",
+    "platform": "android",
+    "screen_size": "6.67",
+    "refresh_rate": "120",
+    "default_dpi": "400"
+  },
+  "poco f5 pro": {
+    "device_name": "POCO F5 Pro",
+    "platform": "android",
+    "screen_size": "6.67",
+    "refresh_rate": "120",
+    "default_dpi": "480"
+  },
+  "poco f5": {
+    "device_name": "POCO F5",
+    "platform": "android",
+    "screen_size": "6.67",
+    "refresh_rate": "120",
+    "default_dpi": "440"
+  },
+  "poco m5": {
+    "device_name": "POCO M5",
+    "platform": "android",
+    "screen_size": "6.58",
+    "refresh_rate": "90",
+    "default_dpi": "400"
+  },
+  "realme gt 5 pro": {
+    "device_name": "Realme GT 5 Pro",
+    "platform": "android",
+    "screen_size": "6.78",
+    "refresh_rate": "144",
+    "default_dpi": "480"
+  },
+  "realme gt neo 5": {
+    "device_name": "Realme GT Neo 5",
+    "platform": "android",
+    "screen_size": "6.74",
+    "refresh_rate": "144",
+    "default_dpi": "480"
+  },
+  "realme gt neo 3": {
+    "device_name": "Realme GT Neo 3",
+    "platform": "android",
+    "screen_size": "6.7",
+    "refresh_rate": "120",
+    "default_dpi": "450"
+  },
+  "realme 11 pro+": {
+    "device_name": "Realme 11 Pro+",
+    "platform": "android",
+    "screen_size": "6.7",
+    "refresh_rate": "120",
+    "default_dpi": "450"
+  },
+  "realme 11 pro": {
+    "device_name": "Realme 11 Pro",
+    "platform": "android",
+    "screen_size": "6.7",
+    "refresh_rate": "120",
+    "default_dpi": "440"
+  },
+  "realme narzo 60 pro": {
+    "device_name": "Realme Narzo 60 Pro",
+    "platform": "android",
+    "screen_size": "6.7",
+    "refresh_rate": "120",
+    "default_dpi": "450"
+  },
+  "realme c55": {
+    "device_name": "Realme C55",
+    "platform": "android",
+    "screen_size": "6.72",
+    "refresh_rate": "90",
+    "default_dpi": "400"
+  },
+  "vivo v29 pro": {
+    "device_name": "Vivo V29 Pro",
+    "platform": "android",
+    "screen_size": "6.78",
+    "refresh_rate": "120",
+    "default_dpi": "450"
+  },
+  "vivo v29": {
+    "device_name": "Vivo V29",
+    "platform": "android",
+    "screen_size": "6.78",
+    "refresh_rate": "120",
+    "default_dpi": "440"
+  },
+  "vivo y100": {
+    "device_name": "Vivo Y100",
+    "platform": "android",
+    "screen_size": "6.67",
+    "refresh_rate": "120",
+    "default_dpi": "400"
+  },
+  "iqoo 12": {
+    "device_name": "iQOO 12",
+    "platform": "android",
+    "screen_size": "6.78",
+    "refresh_rate": "144",
+    "default_dpi": "480"
+  },
+  "iqoo neo 9 pro": {
+    "device_name": "iQOO Neo 9 Pro",
+    "platform": "android",
+    "screen_size": "6.78",
+    "refresh_rate": "144",
+    "default_dpi": "450"
+  },
+  "oppo find x6 pro": {
+    "device_name": "OPPO Find X6 Pro",
+    "platform": "android",
+    "screen_size": "6.82",
+    "refresh_rate": "120",
+    "default_dpi": "480"
+  },
+  "oppo reno 10 pro+": {
+    "device_name": "OPPO Reno 10 Pro+",
+    "platform": "android",
+    "screen_size": "6.74",
+    "refresh_rate": "120",
+    "default_dpi": "450"
+  },
+  "oppo a78": {
+    "device_name": "OPPO A78",
+    "platform": "android",
+    "screen_size": "6.56",
+    "refresh_rate": "90",
+    "default_dpi": "400"
+  },
+  "google pixel 8 pro": {
+    "device_name": "Google Pixel 8 Pro",
+    "platform": "android",
+    "screen_size": "6.7",
+    "refresh_rate": "120",
+    "default_dpi": "490"
+  },
+  "google pixel 8": {
+    "device_name": "Google Pixel 8",
+    "platform": "android",
+    "screen_size": "6.2",
+    "refresh_rate": "120",
+    "default_dpi": "430"
+  },
+  "google pixel 7 pro": {
+    "device_name": "Google Pixel 7 Pro",
+    "platform": "android",
+    "screen_size": "6.7",
+    "refresh_rate": "120",
+    "default_dpi": "490"
+  },
+  "google pixel 7": {
+    "device_name": "Google Pixel 7",
+    "platform": "android",
+    "screen_size": "6.3",
+    "refresh_rate": "90",
+    "default_dpi": "420"
+  },
+  "nothing phone 2": {
+    "device_name": "Nothing Phone 2",
+    "platform": "android",
+    "screen_size": "6.7",
+    "refresh_rate": "120",
+    "default_dpi": "450"
+  },
+  "nothing phone 1": {
+    "device_name": "Nothing Phone 1",
+    "platform": "android",
+    "screen_size": "6.55",
+    "refresh_rate": "120",
+    "default_dpi": "402"
+  },
+  "motorola edge 40 pro": {
+    "device_name": "Motorola Edge 40 Pro",
+    "platform": "android",
+    "screen_size": "6.67",
+    "refresh_rate": "165",
+    "default_dpi": "440"
+  },
+  "motorola edge 40": {
+    "device_name": "Motorola Edge 40",
+    "platform": "android",
+    "screen_size": "6.55",
+    "refresh_rate": "144",
+    "default_dpi": "420"
+  },
+  "infinix note 30 pro": {
+    "device_name": "Infinix Note 30 Pro",
+    "platform": "android",
+    "screen_size": "6.67",
+    "refresh_rate": "120",
+    "default_dpi": "400"
+  },
+  "infinix gt 10 pro": {
+    "device_name": "Infinix GT 10 Pro",
+    "platform": "android",
+    "screen_size": "6.67",
+    "refresh_rate": "120",
+    "default_dpi": "400"
+  },
+  "tecno pova 5 pro": {
+    "device_name": "Tecno POVA 5 Pro",
+    "platform": "android",
+    "screen_size": "6.78",
+    "refresh_rate": "120",
+    "default_dpi": "400"
+  },
+  "tecno camon 20 pro": {
+    "device_name": "Tecno Camon 20 Pro",
+    "platform": "android",
+    "screen_size": "6.67",
+    "refresh_rate": "120",
+    "default_dpi": "400"
+  },
+  "asus rog phone 7": {
+    "device_name": "ASUS ROG Phone 7",
+    "platform": "android",
+    "screen_size": "6.78",
+    "refresh_rate": "165",
+    "default_dpi": "480"
+  },
+  "asus zenfone 10": {
+    "device_name": "ASUS Zenfone 10",
+    "platform": "android",
+    "screen_size": "5.92",
+    "refresh_rate": "144",
+    "default_dpi": "440"
+  },
+  "xiaomi 14 pro": {
+    "device_name": "Xiaomi 14 Pro",
+    "platform": "android",
+    "screen_size": "6.73",
+    "refresh_rate": "120",
+    "default_dpi": "480"
+  },
+  "xiaomi 14": {
+    "device_name": "Xiaomi 14",
+    "platform": "android",
+    "screen_size": "6.36",
+    "refresh_rate": "120",
+    "default_dpi": "460"
+  },
+  "xiaomi 13 pro": {
+    "device_name": "Xiaomi 13 Pro",
+    "platform": "android",
+    "screen_size": "6.73",
+    "refresh_rate": "120",
+    "default_dpi": "480"
+  },
+  "xiaomi 13": {
+    "device_name": "Xiaomi 13",
+    "platform": "android",
+    "screen_size": "6.36",
+    "refresh_rate": "120",
+    "default_dpi": "460"
+  }
+}
